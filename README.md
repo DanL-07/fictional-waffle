@@ -1,2 +1,3 @@
 # fictional-waffle
-It is just the PROGNUM repository and I don't know how to change the name of it :(
+A waffle that belongs to THE fiction
+The fiction is indeed one fiction of the ones of all time
